@@ -1,5 +1,5 @@
 print('Good morning')
 print('Hello world')
 print('Nice to meet you')
-
+n = input()
 print('Nice to meet you too')
